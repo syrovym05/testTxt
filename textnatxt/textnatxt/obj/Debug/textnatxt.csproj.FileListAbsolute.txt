@@ -1,0 +1,10 @@
+G:\PRG\textnatxt\textnatxt\bin\Debug\textnatxt.exe.config
+G:\PRG\textnatxt\textnatxt\bin\Debug\textnatxt.exe
+G:\PRG\textnatxt\textnatxt\bin\Debug\textnatxt.pdb
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.csprojAssemblyReference.cache
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.Form1.resources
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.Properties.Resources.resources
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.csproj.GenerateResource.cache
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.csproj.CoreCompileInputs.cache
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.exe
+G:\PRG\textnatxt\textnatxt\obj\Debug\textnatxt.pdb

@@ -1,0 +1,2 @@
+Oscar,Higgins,Male,29,222494
+Prumerný vìk: 23
